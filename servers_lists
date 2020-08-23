@@ -1,3 +1,4 @@
 http://opcuaserver.com/
 http://opclabs.doc-that.com/files/onlinedocs/QuickOpc/Latest/User's%20Guide%20and%20Reference-QuickOPC/OPC%20UA%20Sample%20Server.html
 opc.tcp://opcua.rocks:4840/ = Public OPC UA Test Server based on open62541
+https://github.com/node-opcua/node-opcua/wiki/publicly-available-OPC-UA-Servers-and-Clients
